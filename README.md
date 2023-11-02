@@ -1,1 +1,4 @@
-# prueba2
+# Repositorio de prueba para clase
+
+* item 1
+* item 2
